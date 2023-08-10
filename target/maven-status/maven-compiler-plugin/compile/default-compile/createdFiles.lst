@@ -1,0 +1,9 @@
+TestCases\DATTestCases.class
+PageObjectPck\AddNewCustomerPage.class
+Utils\ReadPropertyFiles.class
+TestCases\AddNewCustomerTest.class
+TestCases\LoginTest.class
+PageObjectPck\LoginPageObject.class
+TestCases\BaseClass.class
+Utils\XLUtils.class
+Utils\Reporting.class
